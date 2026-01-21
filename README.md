@@ -1,4 +1,4 @@
-##Whats Up!
+Whats Up!
 ## Welcome to my platform 
 
 
