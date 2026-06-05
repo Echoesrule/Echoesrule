@@ -1,0 +1,90 @@
+<svg width="100%" viewBox="0 0 690 230" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Now playing — Emmanuel Kiprono</title>
+<desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A retro media player card with a rotating vinyl record</desc>
+<defs>
+  <radialGradient id="vg" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#2a1f0e"/>
+    <stop offset="18%" stop-color="#1a1209"/>
+    <stop offset="19%" stop-color="#3a2a14"/>
+    <stop offset="35%" stop-color="#1a1209"/>
+    <stop offset="36%" stop-color="#2e2010"/>
+    <stop offset="55%" stop-color="#1a1209"/>
+    <stop offset="56%" stop-color="#281c0c"/>
+    <stop offset="75%" stop-color="#1a1209"/>
+    <stop offset="76%" stop-color="#221608"/>
+    <stop offset="100%" stop-color="#1a1209"/>
+  </radialGradient>
+  <radialGradient id="label-g" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#c9a84c"/>
+    <stop offset="100%" stop-color="#7a5c1e"/>
+  </radialGradient>
+  <clipPath id="vinyl-clip">
+    <circle cx="110" cy="110" r="88"/>
+  </clipPath>
+  <filter id="scratch">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" result="noise"/>
+    <feColorMatrix type="saturate" values="0" in="noise" result="gray"/>
+    <feBlend in="SourceGraphic" in2="gray" mode="screen" result="blended"/>
+    <feComposite in="blended" in2="SourceGraphic" operator="in"/>
+  </filter>
+</defs>
+
+
+
+<rect width="680" height="220" rx="6" style="fill:rgb(17, 13, 7);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<rect x="1" y="1" width="678" height="218" rx="6" style="fill:none;stroke:rgb(58, 42, 18);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<text x="340" y="26" text-anchor="middle" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">♪  N O W   P L A Y I N G  ♪</text>
+<line x1="220" y1="34" x2="660" y2="34" stroke="#2a1f0e" stroke-width="1" style="fill:rgb(0, 0, 0);stroke:rgb(42, 31, 14);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+  <circle cx="110" cy="110" r="88" fill="url(#vg)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="110" cy="110" r="73" stroke="#24180a" style="fill:none;stroke:rgb(36, 24, 10);color:rgb(255, 255, 255);stroke-width:0.6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="110" cy="110" r="62" stroke="#221608" style="fill:none;stroke:rgb(34, 22, 8);color:rgb(255, 255, 255);stroke-width:0.6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="110" cy="110" r="52" stroke="#201507" style="fill:none;stroke:rgb(32, 21, 7);color:rgb(255, 255, 255);stroke-width:0.6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="110" cy="110" r="43" stroke="#1e1306" style="fill:none;stroke:rgb(30, 19, 6);color:rgb(255, 255, 255);stroke-width:0.6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="110" cy="110" r="35" stroke="#1c1205" style="fill:none;stroke:rgb(28, 18, 5);color:rgb(255, 255, 255);stroke-width:0.6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="110" cy="110" r="27" stroke="#28190a" style="fill:none;stroke:rgb(40, 25, 10);color:rgb(255, 255, 255);stroke-width:0.6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <circle cx="110" cy="110" r="22" fill="url(#label-g)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="110" y="105" text-anchor="middle" font-size="6" font-weight="700" letter-spacing="1" style="fill:rgb(26, 18, 9);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:6px;font-weight:700;text-anchor:middle;dominant-baseline:auto">EMMANUEL</text>
+  <text x="110" y="113" text-anchor="middle" font-size="5" style="fill:rgb(26, 18, 9);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:5px;font-weight:400;text-anchor:middle;dominant-baseline:auto">KIPRONO</text>
+  <text x="110" y="120" text-anchor="middle" font-size="4.5" style="fill:rgb(26, 18, 9);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:4.5px;font-weight:400;text-anchor:middle;dominant-baseline:auto">NAIROBI · KE</text>
+  <circle cx="110" cy="110" r="4" fill="#1a1209" style="fill:rgb(26, 18, 9);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="110" cy="110" r="2" fill="#c9a84c" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</g>
+
+<line x1="185" y1="32" x2="205" y2="72" style="fill:none;stroke:rgb(138, 112, 85);color:rgb(255, 255, 255);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<circle cx="205" cy="74" r="3" fill="#c9a84c" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<text x="230" y="62" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">ARTIST</text>
+<text x="290" y="62" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">─────────────</text>
+<text x="410" y="62" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">Emmanuel Kiprono</text>
+
+<text x="230" y="84" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">TRACK</text>
+<text x="290" y="84" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">─────────────</text>
+<text x="410" y="84" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">building_stuff.py</text>
+
+<text x="230" y="106" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">ALBUM</text>
+<text x="290" y="106" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">─────────────</text>
+<text x="410" y="106" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">Year One, CS Edition</text>
+
+<text x="230" y="128" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">LOCATION</text>
+<text x="290" y="128" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">─────────────</text>
+<text x="410" y="128" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">Nairobi, Kenya</text>
+
+<line x1="220" y1="142" x2="660" y2="142" stroke="#2a1f0e" stroke-width="1" style="fill:rgb(0, 0, 0);stroke:rgb(42, 31, 14);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<rect x="230" y="152" width="380" height="4" rx="2" style="fill:rgb(42, 31, 14);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<rect x="230" y="152" width="140" height="4" rx="2" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<circle cx="370" cy="154" r="5" fill="#c9a84c" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<text x="230" y="170" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:9px;font-weight:400;text-anchor:start;dominant-baseline:auto">00:42</text>
+<text x="600" y="170" text-anchor="end" style="fill:rgb(107, 82, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:9px;font-weight:400;text-anchor:end;dominant-baseline:auto">03:28</text>
+
+<text x="280" y="195" style="fill:rgb(160, 133, 108);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">◄◄</text>
+<text x="320" y="195" style="fill:rgb(160, 133, 108);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">▐▐</text>
+<text x="358" y="195" style="fill:rgb(160, 133, 108);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Share Tech Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">►►</text>
+
+<path d="M 600 183 C 600 178 606 175 610 180 C 614 175 620 178 620 183 C 620 190 610 197 610 197 C 610 197 600 190 600 183 Z" style="fill:rgb(201, 168, 76);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</svg>
