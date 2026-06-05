@@ -1,0 +1,100 @@
+<svg width="680" height="220" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Now playing — Emmanuel Kiprono</title>
+<desc>A retro media player card with a rotating vinyl record</desc>
+<defs>
+  <radialGradient id="vg" cx="50%" cy="50%" r="50%">
+    <stop offset="0%"   stop-color="#2a1f0e"/>
+    <stop offset="18%"  stop-color="#1a1209"/>
+    <stop offset="19%"  stop-color="#3a2a14"/>
+    <stop offset="35%"  stop-color="#1a1209"/>
+    <stop offset="36%"  stop-color="#2e2010"/>
+    <stop offset="55%"  stop-color="#1a1209"/>
+    <stop offset="56%"  stop-color="#281c0c"/>
+    <stop offset="75%"  stop-color="#1a1209"/>
+    <stop offset="76%"  stop-color="#221608"/>
+    <stop offset="100%" stop-color="#1a1209"/>
+  </radialGradient>
+  <radialGradient id="label-g" cx="50%" cy="50%" r="50%">
+    <stop offset="0%"   stop-color="#c9a84c"/>
+    <stop offset="100%" stop-color="#7a5c1e"/>
+  </radialGradient>
+</defs>
+
+<style>
+  .card-bg    { fill: #110d07; }
+  .card-border{ fill: none; stroke: #3a2a12; stroke-width: 1.5; }
+  .label-text { font-family: 'Courier New', monospace; fill: #1a1209; }
+  .info-key   { font-family: 'Courier New', monospace; font-size: 11px; fill: #6b5230; }
+  .info-val   { font-family: 'Courier New', monospace; font-size: 11px; fill: #c9a84c; }
+  .header     { font-family: 'Courier New', monospace; font-size: 11px; fill: #c9a84c; letter-spacing: 3px; }
+  .controls   { font-family: 'Courier New', monospace; font-size: 13px; fill: #a0856c; }
+  .time       { font-family: 'Courier New', monospace; font-size: 9px; fill: #6b5230; }
+  .groove     { fill: none; stroke-width: 0.6; }
+  .needle-arm { fill: none; stroke: #8a7055; stroke-width: 2; stroke-linecap: round; }
+  .heart      { fill: #c9a84c; }
+  .spin {
+    transform-origin: 110px 110px;
+    animation: spin 4s linear infinite;
+  }
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+  }
+</style>
+
+<rect width="680" height="220" rx="6" class="card-bg"/>
+<rect x="1" y="1" width="678" height="218" rx="6" class="card-border"/>
+
+<text x="340" y="26" text-anchor="middle" class="header">&#9834;  N O W   P L A Y I N G  &#9834;</text>
+<line x1="220" y1="34" x2="660" y2="34" stroke="#2a1f0e" stroke-width="1"/>
+
+<g class="spin">
+  <circle cx="110" cy="110" r="88" fill="url(#vg)"/>
+  <circle cx="110" cy="110" r="73" class="groove" stroke="#24180a"/>
+  <circle cx="110" cy="110" r="62" class="groove" stroke="#221608"/>
+  <circle cx="110" cy="110" r="52" class="groove" stroke="#201507"/>
+  <circle cx="110" cy="110" r="43" class="groove" stroke="#1e1306"/>
+  <circle cx="110" cy="110" r="35" class="groove" stroke="#1c1205"/>
+  <circle cx="110" cy="110" r="27" class="groove" stroke="#28190a"/>
+  <circle cx="110" cy="110" r="22" fill="url(#label-g)"/>
+  <text x="110" y="105" text-anchor="middle" class="label-text" font-size="6" font-weight="700" letter-spacing="1">EMMANUEL</text>
+  <text x="110" y="113" text-anchor="middle" class="label-text" font-size="5">KIPRONO</text>
+  <text x="110" y="120" text-anchor="middle" class="label-text" font-size="4.5">NAIROBI &#183; KE</text>
+  <circle cx="110" cy="110" r="4" fill="#1a1209"/>
+  <circle cx="110" cy="110" r="2" fill="#c9a84c"/>
+</g>
+
+<line x1="185" y1="32" x2="205" y2="72" class="needle-arm"/>
+<circle cx="205" cy="74" r="3" fill="#c9a84c"/>
+
+<text x="230" y="62"  class="info-key">ARTIST</text>
+<text x="290" y="62"  class="info-key">&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;</text>
+<text x="410" y="62"  class="info-val">Emmanuel Kiprono</text>
+
+<text x="230" y="84"  class="info-key">TRACK</text>
+<text x="290" y="84"  class="info-key">&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;</text>
+<text x="410" y="84"  class="info-val">building_stuff.py</text>
+
+<text x="230" y="106" class="info-key">ALBUM</text>
+<text x="290" y="106" class="info-key">&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;</text>
+<text x="410" y="106" class="info-val">Year One, CS Edition</text>
+
+<text x="230" y="128" class="info-key">LOCATION</text>
+<text x="290" y="128" class="info-key">&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;</text>
+<text x="410" y="128" class="info-val">Nairobi, Kenya &#127472;&#127466;</text>
+
+<line x1="220" y1="142" x2="660" y2="142" stroke="#2a1f0e" stroke-width="1"/>
+
+<rect x="230" y="152" width="380" height="4" rx="2" fill="#2a1f0e"/>
+<rect x="230" y="152" width="140" height="4" rx="2" fill="#c9a84c"/>
+<circle cx="370" cy="154" r="5" fill="#c9a84c"/>
+
+<text x="230" y="170" class="time">00:42</text>
+<text x="610" y="170" class="time">03:28</text>
+
+<text x="270" y="198" class="controls">&#9664;&#9664;</text>
+<text x="315" y="198" class="controls">&#9646;&#9646;</text>
+<text x="355" y="198" class="controls">&#9654;&#9654;</text>
+
+<path d="M 600 183 C 600 178 606 175 610 180 C 614 175 620 178 620 183 C 620 190 610 197 610 197 C 610 197 600 190 600 183 Z" class="heart"/>
+</svg>
