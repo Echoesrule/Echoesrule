@@ -9,7 +9,7 @@
   ██╔══╝  ██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██║
   ███████╗██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝███████╗███████╗
   ╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
-                                                          K I P R O N O
+                                                          K E M B O I
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=15&duration=3000&pause=1000&color=A0856C&center=true&vCenter=true&width=500&lines=Python%20Developer%20%7C%20CS%20Student%20%7C%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA;Building%20things%20that%20matter%20since%20day%20one.;Music%20is%20not%20a%20hobby.%20It%27s%20how%20I%20think." alt="role"/>
