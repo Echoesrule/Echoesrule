@@ -1,134 +1,90 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=13&duration=4000&pause=1200&color=C9A84C&center=true&vCenter=true&width=500&lines=%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%93;now%20playing%20%20...%20%20emmanuel.kiprono;%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%93" alt="now playing"/>
+<div align="left">
 
-```
-  ███████╗███╗   ███╗███╗   ███╗ █████╗ ███╗   ██╗██╗   ██╗███████╗██╗
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%5D%24+cat+header.txt" alt="Typing SVG" /></a>
+</div>
+
+  ```
+  ███████╗███╗   ███╗███╗   ███╗█████╗ ███╗   ██╗██╗   ██╗███████╗██╗
   ██╔════╝████╗ ████║████╗ ████║██╔══██╗████╗  ██║██║   ██║██╔════╝██║
   █████╗  ██╔████╔██║██╔████╔██║███████║██╔██╗ ██║██║   ██║█████╗  ██║
   ██╔══╝  ██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██║
   ███████╗██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝███████╗███████╗
   ╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
-                                                          K E M B O I
+
+                                                           K E M B O I
+  ```
+<div align="left">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%5D%24+cat+whoami.json)](https://git.io/typing-svg)
+<br/>
+```json
+{
+  "developer": {
+    "alias": "Retro",
+    "name": "Emmanuel Kiprono Kemboi",
+    "role": "CS Student & Python Developer",
+    "location": "Nairobi, KE [01°17'S 36°49'E]"
+  },
+  "runtime_status": {
+    "code": 200,
+    "state": "ACTIVE",
+    "host": "South Eastern Kenya University"
+  },
+  "architecture": {
+    "focus": [
+      "Backend Engineering",
+      "Scalable Web APIs",
+      "Relational Databases"
+    ],
+    "sound_design": [
+      "Old Pop",
+      "Trap",
+      "Afro House"
+    ],
+    "philosophy": "Clean architecture & maintainable code."
+  }
+}
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=15&duration=3000&pause=1000&color=A0856C&center=true&vCenter=true&width=500&lines=Python%20Developer%20%7C%20CS%20Student%20%7C%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA;Building%20things%20that%20matter%20since%20day%20one.;Music%20is%20not%20a%20hobby.%20It%27s%20how%20I%20think." alt="role"/>
-
 </div>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%5D%24+btop)](https://git.io/typing-svg)
+
+
+
+<br/>
 
 <div align="center">
-  <img src="./vinyl.svg" width="680"/>
+  <img src="https://btop-api.vercel.app/api/btop" width="100%" alt="btop Dashboard" />
 </div>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%2Fconfig%5D%24+cat+env.conf)](https://git.io/typing-svg)
+```ini
+# /etc/retro/env.conf
 
-## ◄ SIDE A — WHO I AM
+Best_Song= "They Dont Really Care About Us -MJ"
 
-```
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+PRIMARY_BEVERAGE = "Anything that keeps me awake(chai)"
 
-  CS student in Nairobi. Got into tech because I like
-  solving problems — not because someone said it was
-  the future.
+WORKFLOW_PEAK = "02:00 UTC+3"
 
-  I write Python. I build web apps and platforms that
-  are meant to be used, not just deployed and forgotten.
-
-  When I'm not at a terminal, I'm deep in music.
-  Not background noise — the other half of how I
-  think, work, and move through the world.
-
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+CORE_PRINCIPLE = "Write maintainable code."
 ```
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%2Fcontacts%5D%24+ping+-c+1+host)](https://git.io/typing-svg)
 
-## ► SIDE B — THE STACK
+<br/>
 
-<div align="center">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,django,flask,mysql,git,github,linux,vscode&theme=dark&perline=6" />
-
-</div>
-
-```
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-  Python is home base. Django and Flask for the web.
-  HTML/CSS when the frontend needs to not embarrass me.
-  JavaScript only when I absolutely have to.
-  SQL when the data has something to say.
-  Git because breaking things is fine — losing them isn't.
-
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-  PYTHON      ████████████████████░░░░  55%   home base
-  HTML/CSS    ████████░░░░░░░░░░░░░░░░  20%   front of the front
-  JAVASCRIPT  ██████░░░░░░░░░░░░░░░░░░  15%   when I have to
-  SQL         ███░░░░░░░░░░░░░░░░░░░░░   7%   databases talk
-  OTHER       █░░░░░░░░░░░░░░░░░░░░░░░   3%   misc
-```
-
----
-
-## ▣ GITHUB
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=emmanuelkiprono&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1209&title_color=c9a84c&icon_color=a0856c&text_color=d4b896&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelkiprono&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1209&title_color=c9a84c&text_color=d4b896"/>
-
-<img src="https://streak-stats.demolab.com?user=emmanuelkiprono&theme=gruvbox&hide_border=true&background=1a1209&stroke=c9a84c&ring=a0856c&fire=c9a84c&currStreakLabel=d4b896&sideLabels=d4b896&dates=a0856c" height="150"/>
-
-</div>
-
----
-
-## ♫ THE RECORD CRATE
+```text
+LOCATION : Nairobi, Kenya [01°17'S 36°49'E]
+HOST     : nairobi.kenya.node
+STATUS   : 200 OK
 
 ```
-  ┌──────────────────────────────────────────────────────┐
-  │                                                      │
-  │   Music isn't what I listen to.                      │
-  │   It's what I think in.                              │
-  │                                                      │
-  │   Different frequencies for different states:        │
-  │                                                      │
-  │   [ debugging  ]  ──────────  Lo-fi / Jazz           │
-  │   [ building   ]  ──────────  Afrobeats / Gengetone  │
-  │   [ thinking   ]  ──────────  Neo-soul / R&B         │
-  │   [ 2 AM ideas ]  ──────────  anything, loud         │
-  │                                                      │
-  └──────────────────────────────────────────────────────┘
-```
-
----
-
-## ◈ LINER NOTES
-
-```
-  ░ ANIME         One Punch Man > Goku.  Not a debate.
-  ░ FUEL          Kenyan tea.  Always.
-  ░ BEST IDEAS    Come at 2 AM.  Ship in the morning.
-  ░ HARDEST PART  Naming variables.  Genuinely.
-  ░ PHILOSOPHY    Build it right or build it again.
-```
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Kiprono-C9A84C?style=for-the-badge&logo=linkedin&logoColor=1a1209&labelColor=1a1209)](https://www.linkedin.com/in/emmanuel-kiprono-14a800389)
-[![GitHub](https://img.shields.io/badge/GitHub-emmanuelkiprono-C9A84C?style=for-the-badge&logo=github&logoColor=1a1209&labelColor=1a1209)](https://github.com/emmanuelkiprono)
-
-```
-  ─────────────────────────────────────────────────────
-    ♪  thanks for listening  ·  nairobi, kenya 🇰🇪  ♪
-  ─────────────────────────────────────────────────────
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=11&duration=5000&pause=2000&color=A0856C&center=true&vCenter=true&width=500&lines=%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%93" alt="end"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-kiprono-14a800389)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Echoesrule)
+[![Website](https://img.shields.io/badge/Website-2088FF?style=flat-square&logo=googlechrome&logoColor=white)](https://noteify-app.com)
+<br/>
