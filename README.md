@@ -55,7 +55,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://btop-api.vercel.app/" width="100%" alt="btop Dashboard" />
+  <img src="https://btop-api.vercel.app/api/btop-gif" width="100%" alt="btop Dashboard" />
 </div>
 <br/>
 
