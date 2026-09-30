@@ -13,11 +13,12 @@
   ╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
 
                                                            K E M B O I
+
   ```
+## Who's Json? :)
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%5D%24+cat+whoami.json)](https://git.io/typing-svg)
-<br/>
+
 ```json
 {
   "developer": {
@@ -48,15 +49,11 @@
 ```
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%5D%24+btop)](https://git.io/typing-svg)
-
-
-
 <br/>
 
+## Random Things About Me [0_0]
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%2Fconfig%5D%24+cat+env.conf)](https://git.io/typing-svg)
 ```ini
 # /etc/retro/env.conf
 
@@ -69,10 +66,7 @@ WORKFLOW_PEAK = "02:00 UTC+3"
 CORE_PRINCIPLE = "Write maintainable code."
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%2Fcontacts%5D%24+ping+-c+1+host)](https://git.io/typing-svg)
-
-<br/>
-
+## Find Me Here :
 <div align="left">
 
 ```text
