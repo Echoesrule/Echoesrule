@@ -54,10 +54,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://btop-api.vercel.app/api/btop-gif" width="100%" alt="btop Dashboard" />
-</div>
-<br/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1006&color=98F7DD&width=435&lines=Retro%40Nairobi%3A%5B~%2Fconfig%5D%24+cat+env.conf)](https://git.io/typing-svg)
 ```ini
